@@ -6,9 +6,9 @@
 
 <!-- About Me -->
 ## About Me
-- 🌱 I'm currently learning software engineering at ALX
+- 🌱 I am a software/machine learning engineer
 - 👨‍🎓 I have B.sc in computer science
-- 💻 I create awesome stuff like a Good Reponsive Web Development using my knowledge of Javascript,React and php.
+- 💻 I create awesome stuff like a Good Reponsive Web Development using my knowledge of Javascript,React, python and php.
 - 📱 Ask me about programming and mobile application development!
 
 <!-- Connect with me -->
