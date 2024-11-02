@@ -2,7 +2,7 @@
 # Hello!!! I'm Abimbola Alimat
 
 <!-- Project Description -->
-## A Software Engineer
+## A Software Engineer | Machine Learning
 
 <!-- About Me -->
 ## About Me
