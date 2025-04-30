@@ -9,7 +9,7 @@
 - 🌱 I am a software/machine learning engineer
 - 👨‍🎓 I have B.sc in computer science
 - 💻 I created awesome stuff like a Good Reponsive Web Development using my knowledge of Javascript,React, python and php.
-- 📱 Ask me about programming and mobile application development!
+- 📱 Ask me about programming and machine learning!
 
 <!-- Connect with me -->
 ## Connect with me
