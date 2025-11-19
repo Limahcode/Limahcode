@@ -8,12 +8,12 @@
 ## About Me
 - 🌱 I am a software/machine learning engineer
 - 👨‍🎓 I have B.sc in computer science
-- 💻 I created awesome stuff like a Good Reponsive Web Development using my knowledge of Javascript,React, python and php.
+- 💻 I created awesome stuff like a Good Reponsive Web Development using my knowledge of Javascript,React, python and php/Laravel.
 - 📱 Ask me about programming and machine learning!
 
 <!-- Connect with me -->
 ## Connect with me
-[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="30"/>](https://www.linkedin.com/in/alimat-abimbola-680bb51ab) [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="30"/>](https://wa.me/2347016116860)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="30"/>](https://www.linkedin.com/in/alimat-abimbola) [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="30"/>](https://wa.me/2347016116860)
 
 <table>
   <tr>
